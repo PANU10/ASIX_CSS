@@ -1,0 +1,12 @@
+* {
+    color: #CCCCFF;
+}
+
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+body * p {
+    font-style: italic;
+    color: #FF6600;
+}
