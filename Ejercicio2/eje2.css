@@ -1,0 +1,17 @@
+@charset "utf-8";
+
+body {
+    font-family: "verdana,arial,sans-serif";
+}
+
+h1 {
+    font-size: 150%;
+}
+
+a {
+    text-decoration: none;
+}
+
+p {
+    font-size: 75%;
+}
