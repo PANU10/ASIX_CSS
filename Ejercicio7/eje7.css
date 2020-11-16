@@ -1,0 +1,28 @@
+* {
+    font-family: Geneva, Arial, Helvetica, sans-serif;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+p {
+    font-family: 'Courier New'; font-size: 0.8em; color: silver;
+}
+
+
+#nav {
+    color: red;
+    background: #FF6;
+}
+
+#nav li {
+    font-weight: bold;
+    list-style: lower-alpha;
+}
+
+#nav li+li {
+    font: italic 1.2em "Comic Sans MS", Arial, Helvetica;
+    background: #CFF;
+}
+
