@@ -1,0 +1,14 @@
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #9C3;
+}
+
+h3 p {
+    font-style: italic;
+    color: #3366CC;
+}
+
+h3 > p {
+    color: red;
+    background-color: rgb(170, 255, 0);
+}
