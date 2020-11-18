@@ -1,0 +1,35 @@
+a:link {
+    color: blue;
+}
+
+a:visited {
+    color: orange;
+}
+
+a:hover {
+    background-color: red;
+    color: white;
+}
+
+a:active {
+    color: cyan;
+    background-color: #30C;
+}
+
+p {
+    font-family: 'Courier New'; font-size: 0.8em; color: silver;
+}
+
+li {
+    width: 100px;
+    background: pink;
+    list-style: none;
+    border: 1px solid white;
+    font-weight: bold;
+}
+
+a {
+    color: blue;
+    text-decoration:none;
+    display: block;
+}
