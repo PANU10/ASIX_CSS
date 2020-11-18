@@ -1,0 +1,40 @@
+﻿h2 {
+	font-size: 2.2em;
+	color: #C63;
+}
+
+label {
+	display: block;
+	text-align:right;
+	margin-right: 20%;
+	line-height: 2em;
+}
+
+
+#form1 {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	width: 650px;
+	text-align:center;
+	background-color: pink;
+	padding: 20px;
+	
+}
+
+input[name|="boto"] {
+    padding: 10px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+input[type="text"]:focus {
+    background-color: #FF9;
+} 
+
+input[name|="boto"]:focus {
+    background-color: #FC9;
+}
+
+input[name|="boto"]:hover {
+    background-color: #FFCCFF;
+    font-weight: bold;
+}
